@@ -1,4 +1,8 @@
-# VoiceShield
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=VoiceShield" alt="VoiceShield animated title" />
+  </a>
+</p>
 
 VoiceShield is an Android app that acts as a **scam call bodyguard**.  
 It listens for suspicious phrases during a call and warns the user so they do not get trapped.

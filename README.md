@@ -40,6 +40,13 @@ text
 
 ---
 
+
+
+https://github.com/user-attachments/assets/9874549a-7e74-4847-8891-51813e44fdc6
+
+
+
+
 ## 📌 Future Ideas
 
 - Add real‑time speech‑to‑text detection.
